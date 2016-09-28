@@ -1,4 +1,0 @@
-Encore un nouveau fichier dans master
-voici une ligne dans le fichier
-et encore une
-en voici une plus

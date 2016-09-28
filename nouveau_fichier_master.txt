@@ -1,1 +1,4 @@
 Voici un nouveau fichier
+Une ligne en plus
+encore une avec cette fois un saut de ligne a la fin
+Cette fois j'en ajoute une de plus et promis c'est la fin
